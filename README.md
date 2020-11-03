@@ -9,7 +9,8 @@ Results are finally stored in a structure called "STORE" for later use.
 
 ## Essential Modules
 1. Signal Frame Generate:
-   \n This module controls the choice of whether to add the channel distortion and also the amount of distortion for various distances
+   
+   This module controls the choice of whether to add the channel distortion and also the amount of distortion for various distances
 2. Interferer Frame Generate
 
 Sample Outputs of the modules are re-produced below:
