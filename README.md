@@ -8,10 +8,10 @@ I've sampled the results of this system at various stages of the communication c
 Results are finally stored in a structure called "STORE" for later use.
 
 ## Essential Modules
-1. Signal Frame Generate:
+### 1. Signal Frame Generate:
    
    This module controls the choice of whether to add the channel distortion and also the amount of distortion for various distances by virtue of *Pulse Distort Flag*. All essential parameters such as *sampling times, pulse, number of re-transmissions, distances*, etc., are set to vary according to needs by simply passing their values as arguments. 
-2. Interferer Frame Generate
+### 2. Interferer Frame Generate:
 
    This module generates interference from varying sources at different distances. Provision is made available to transmit with a specific power level via *SIR_dB parameter*. *Pulse Distort Flag* feature is also provided. *Number of Interferers, their power levels, locations, signal distortion, anti-podal BPSK or pulse position PPM* can be set to the desired requirements.
    
