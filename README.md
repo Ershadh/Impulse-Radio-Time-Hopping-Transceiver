@@ -8,4 +8,5 @@ I've sampled the results of this system at various stages of the communication c
 Results are finally stored in a structure called "STORE" for later use.
 
 ## Essential Modules
-
+1. Signal Frame Generate
+2. Inteferer Frame Generate
