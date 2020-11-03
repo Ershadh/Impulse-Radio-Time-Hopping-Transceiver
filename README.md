@@ -8,12 +8,14 @@ I've sampled the results of this system at various stages of the communication c
 Results are finally stored in a structure called "STORE" for later use.
 
 ## Essential Modules
-1. Signal Frame Generate
+1. Signal Frame Generate:
    This module controls the choice of whether to add the channel distortion and also the amount of distortion for various distances
-2. Inteferer Frame Generate
+2. Interferer Frame Generate
 
 Sample Outputs of the modules are re-produced below:
 Signal Frame with frames re-transmitted for three times.
 ![Signal](Signal.jpg)
 
+![Signal](Interferer.jpg)
 
+![Signal](Combined_Signal.jpg)
