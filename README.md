@@ -29,4 +29,4 @@ _**Composite Signal (Desired Signal + Interference):**_ The combined signal in t
 
 This repository is helpful to re-create the framework of signal transmission and reception and allows one to control and experiment with almost all system parameters.
 
-Probability plots and Histograms for the distribution of various interesting paramters are provided in the code file. 
+Probability plots and Histograms for the distribution of various interesting parameters and many other results are provided in the code file. 
