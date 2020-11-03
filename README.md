@@ -10,3 +10,6 @@ Results are finally stored in a structure called "STORE" for later use.
 ## Essential Modules
 1. Signal Frame Generate
 2. Inteferer Frame Generate
+
+Signal looks like this:
+![Signal](Signal.jpg)
